@@ -1,5 +1,3 @@
-package week9;
-
 import java.util.*;
 public class chat
 {
