@@ -1,5 +1,3 @@
-package week9;
-
 import java.util.Scanner;
 
 public class max_char
